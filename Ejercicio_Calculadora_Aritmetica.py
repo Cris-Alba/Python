@@ -38,10 +38,10 @@ elif opcion==3:
     resultado=num1*num2
     operacion='multiplicación'
 elif opcion==4:
-    resultado=num1/num2
+    resultado=num1//num2
     operacion='división'
 elif opcion==5:
-    resultado=num1+num2
+    resultado=num1%num2
     operacion='modulo de división'
 elif opcion==6:
     resultado=num1+num2
